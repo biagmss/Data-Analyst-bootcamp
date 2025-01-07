@@ -1,0 +1,1 @@
+Hi! This is a Data Analyst Bootcamp done by Alex The Analyst. This bootcamp includes SQL,Excel,Tableau,Power BI, Python and some cloud technologies, here I will share my new abilities,challenges and projects!
